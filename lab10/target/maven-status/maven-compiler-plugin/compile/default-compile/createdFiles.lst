@@ -1,0 +1,6 @@
+ua/edu/ucu/apps/SmartDocument.class
+ua/edu/ucu/apps/Main.class
+ua/edu/ucu/apps/Document.class
+ua/edu/ucu/apps/CachedDocument.class
+ua/edu/ucu/apps/DocumentDecorator.class
+ua/edu/ucu/apps/TimedDocument.class
